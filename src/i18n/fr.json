@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "about": "À propos",
+    "work": "Projets",
+    "skills": "Compétences",
+    "experience": "Parcours",
+    "contact": "Contact",
+    "menu": "Ouvrir le menu",
+    "close": "Fermer le menu",
+    "lang": "Changer de langue",
+    "langSwitchedTo": "Switch to English",
+    "theme": "Changer de thème",
+    "downloadCv": "Télécharger le CV"
+  },
+  "hero": {
+    "viewWork": "Voir mes projets",
+    "contactMe": "Me contacter",
+    "scrollHint": "Faites défiler"
+  },
+  "about": {
+    "title": "À propos de moi",
+    "subtitle": "En bref",
+    "locatedIn": "Basé à",
+    "focusTitle": "Ce sur quoi je travaille",
+    "yearsOne": "Je construis et déploie des logiciels depuis {{years}}."
+  },
+  "projects": {
+    "title": "Travaux sélectionnés",
+    "subtitle": "Six produits, tous en production — déployés, pas des maquettes.",
+    "live": "En ligne",
+    "visitLive": "Voir l'application",
+    "coldStartNote": "Hébergé sur un plan gratuit : la première visite peut prendre ~30 secondes pour se réveiller.",
+    "problem": "Le problème",
+    "solution": "La solution",
+    "role": "Mon rôle",
+    "challenge": "Défi technique majeur",
+    "stack": "Construit avec",
+    "placeholder": "Capture d'écran à venir",
+    "openInNewTab": "(s'ouvre dans un nouvel onglet)"
+  },
+  "skills": {
+    "title": "Capacités",
+    "subtitle": "Ce que j'utilise pour livrer — par couche technique, sans fausses jauges statistiques."
+  },
+  "experience": {
+    "title": "Parcours",
+    "subtitle": "Un stage en entreprise, puis des produits déployés en autonomie.",
+    "today": "aujourd'hui"
+  },
+  "stats": {
+    "title": "Ce que j'ai livré",
+    "disclaimer": "Tout ce qui précède est déployé et fonctionne. Déployé ≠ adopté — aucune métrique d'usage revendiquée."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Recrutement, collaboration, ou envie de voir comment un produit fonctionne ? Écrivez-moi.",
+    "bigCta": "Construisons quelque chose",
+    "email": "E-mail",
+    "whatsapp": "WhatsApp",
+    "whatsappChat": "Discuter sur WhatsApp",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "formTitle": "Écrivez-moi directement",
+    "name": "Votre nom",
+    "emailField": "Votre adresse e-mail",
+    "message": "Message",
+    "sendEmail": "Envoyer par e-mail",
+    "sendWhatsapp": "Envoyer par WhatsApp",
+    "noChannels": "Les coordonnées sont en cours de mise à jour — revenez très bientôt."
+  },
+  "footer": {
+    "builtIn": "Construit à Yaoundé",
+    "rights": "Tous droits réservés.",
+    "top": "Revenir en haut"
+  },
+  "a11y": {
+    "skipToContent": "Aller au contenu",
+    "profilePhoto": "Portrait d'{{name}}",
+    "closeMenu": "Fermer le menu de navigation",
+    "navLabel": "Navigation principale"
+  }
+}

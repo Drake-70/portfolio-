@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "about": "About",
+    "work": "Work",
+    "skills": "Skills",
+    "experience": "Experience",
+    "contact": "Contact",
+    "menu": "Open menu",
+    "close": "Close menu",
+    "lang": "Switch language",
+    "langSwitchedTo": "Passer au français",
+    "theme": "Switch theme",
+    "downloadCv": "Download CV"
+  },
+  "hero": {
+    "viewWork": "View my work",
+    "contactMe": "Contact me",
+    "scrollHint": "Scroll to explore"
+  },
+  "about": {
+    "title": "About me",
+    "subtitle": "The short version",
+    "locatedIn": "Based in",
+    "focusTitle": "What I'm focused on",
+    "yearsOne": "Building and shipping software since {{years}}."
+  },
+  "projects": {
+    "title": "Selected work",
+    "subtitle": "Six products, all live in production — deployed, not mocked up.",
+    "live": "Live",
+    "visitLive": "Visit live app",
+    "coldStartNote": "Hosted on a free tier, so the first load may take ~30 seconds to wake up.",
+    "problem": "The problem",
+    "solution": "The solution",
+    "role": "My role",
+    "challenge": "Key technical challenge",
+    "stack": "Built with",
+    "placeholder": "Screenshot coming soon",
+    "openInNewTab": "(opens in a new tab)"
+  },
+  "skills": {
+    "title": "Capabilities",
+    "subtitle": "What I use to ship — grouped by layer, no fake percentage bars."
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Internship plus independent shipping.",
+    "today": "today"
+  },
+  "stats": {
+    "title": "What I've shipped",
+    "disclaimer": "Everything below is deployed and running. Deployed ≠ adopted — no user metrics claimed."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Hiring, collaborating, or just want to see how a product works? Write to me.",
+    "bigCta": "Let's build something",
+    "email": "Email",
+    "whatsapp": "WhatsApp",
+    "whatsappChat": "Chat on WhatsApp",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "formTitle": "Write me directly",
+    "name": "Your name",
+    "emailField": "Your email",
+    "message": "Message",
+    "sendEmail": "Send via email",
+    "sendWhatsapp": "Send via WhatsApp",
+    "noChannels": "Contact details are being updated — check back shortly."
+  },
+  "footer": {
+    "builtIn": "Built in Yaoundé",
+    "rights": "All rights reserved.",
+    "top": "Back to top"
+  },
+  "a11y": {
+    "skipToContent": "Skip to content",
+    "profilePhoto": "Portrait of {{name}}",
+    "closeMenu": "Close navigation menu",
+    "navLabel": "Main navigation"
+  }
+}

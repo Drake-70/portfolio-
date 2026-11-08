@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: replace agborthomas.dev with your final domain
+Sitemap: https://agborthomas.dev/sitemap.xml
